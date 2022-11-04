@@ -14,7 +14,7 @@ body {
   color: #222;
   position: relative;
   min-height: 100vh;
-  background-image: linear-gradient(225deg, #32908d, #fb87c9);
+  background-image: linear-gradient(40deg, #3f5499, #6adf4b);
 }
 
 .modal {
