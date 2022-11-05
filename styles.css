@@ -14,7 +14,7 @@ body {
   color: #222;
   position: relative;
   min-height: 100vh;
-  background-color: peachpuff;
+  background-color: #ffffff;
   overflow: hidden;
 }
 
@@ -70,16 +70,17 @@ body {
 .modal p {
   font-size: 0.9rem;
   color: #777;
-  margin: 0.4rem 0 0.2rem;
+  margin: 1rem 0 0.2rem;
 }
 
 button {
-  cursor: pointer;
-  border: none;
-  font-weight: 600;
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
+  cursor: pointer;
+  border: none;
+  font-weight: 600;
+
   outline: none;
 }
 
