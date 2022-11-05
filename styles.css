@@ -48,6 +48,18 @@ body {
   }
 }
 
+@-webkit-keyframes anim {
+  from {
+    bottom: -300px;
+    /* opacity: 0 */
+  }
+
+  to {
+    bottom: 0;
+    /* opacity: 1 */
+  }
+}
+
 .modal .flex {
   display: flex;
   align-items: center;
